@@ -1,2 +1,6 @@
-var num = 50;
+ var num = 50;
+<<<<<<< HEAD
 var truth = "holle flatter earth "
+=======
+var truth = "holle cat"
+>>>>>>> 8dac1a1d7cd99890a4e3ebb543ba75829420266a
